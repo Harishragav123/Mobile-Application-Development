@@ -24,7 +24,7 @@ PROGRAM:
 /*
 Program to print the text create your own content providers to get contacts details.
 Developed by: HARISH RAGAV
-Registeration Number :21222104005
+Registeration Number :21222104053
 */
 Activity_xml File:
 <?xml version="1.0" encoding="utf-8"?>
