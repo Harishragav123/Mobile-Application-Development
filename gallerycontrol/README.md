@@ -17,8 +17,8 @@ Latest Version Android Studio
 ```
 /*
 Program to print the text “GalleryControl”.
-Developed by:
-Registeration Number :
+Developed by:Harish Ragav
+Registeration Number :212221040053
 */
 ```
 
