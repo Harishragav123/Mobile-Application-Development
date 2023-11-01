@@ -30,8 +30,8 @@ Step 7: Save and run the application.
 ```
 /*
 Program to print the list of item.
-Developed by: Amrish R
-Registeration Number : 212221040012
+Developed by: Harish Ragav
+Registeration Number : 212221040053
 */
 ```
 activity_main.xml:
